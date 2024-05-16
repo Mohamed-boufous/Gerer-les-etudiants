@@ -1,0 +1,60 @@
+a75849210:Oliver:Twist:11:5:13
+d18956235:Mohammed:Potter:2:10:18
+f48279175:Meryem:Karenina:16:12:1
+b92742531:Mostapha:Ait Holmes:7:2:19
+d30514206:Edward:Cullen:3:9:14
+b53142977:Ali:Boufous:20:10:5
+d68162052:Hamid:Lkhyati:9:18:12
+b93128943:Ahmed:Goussaid:14:0:8
+d71038249:Emma:Waterson:1:6:16
+d87201548:Abdelhakim:Ait Modrich:2:0:6
+a22497385:Clarice:ben ronaldo:15:1:7
+d36994862:Amina:Waterson:17:10:4
+d59863212:John:Watson:18:11:13
+s31657984:Abdellah:Langdon:8:7:11
+d10573298:Farid:Ouahmane:7:19:9
+b72365798:Olaf:Vikingson:19:13:7
+a82731950:Abdlhamid:Bousouk:0:2:8
+d58521491:Khalid:Zado:6:0:13
+d39157628:Elizabeth:Noury:10:1:16
+a19574268:Hassan:Ait Ben Ali:8:19:11
+d99341829:Hind:Dantes:3:14:15
+d40067128:Souad:Bousta:1:9:2
+b57031849:Mohammed :Noury:18:1:8
+b13829063:Mohammed Amin:Aprache:13:20:18
+b97345812:Mustapha:Ait Lhssen:7:3:19
+d20872156:Reda:Mohammed:16:9:0
+d46285731:Moussa:Zado:19:4:8
+f57928641:Waffae:Tahiry:2:8:20
+a81392540:Houssam:Fanil:5:16:3
+f75193682:Hafid:Ouizirn:0:14:2
+f24683917:Soufiane:Bejjouk:11:16:18
+d42917503:Souhail:Houry:18:0:13
+d31947302:Salwa:Douslimane:5:12:15
+d96172803:Hajar:Laakri:20:13:7
+d52748196:Oussama:Ait Hmd:1:7:4
+f61087294:Salma:Ben Walid:14:19:2
+d97518264:Kenza:Washington:3:6:16
+b17920381:Reda:Tate:5:1:7
+d43105826:Salma:darcy:19:11:13
+d85963025:Youness:Ahrar:12:17:19
+d38751296:Sharaf:snow:11:14:8
+d82093745:Lucy:Pevensie:8:15:6
+f61582914:Imad:Hemingway:20:7:2
+a72961038:Peter:Pant:2:20:11
+d49170368:Youssef:Abaray:18:10:4
+f87105624:Robin:Williams:4:18:7
+d12467035:Ibtissam:Mobarak:5:7:9
+b76930425:Fatima Zahra:Amini:16:19:8
+b63125748:Mustapha :Tate:12:20:19
+d29968251:Karim:Tajini:7:18:12
+d90817246:Salah din:Potter:4:10:0
+d46981723:Winston:Churchill:15:0:17
+f52687403:Walid:Fanus:6:16:3
+a85173649:Ahmed:Ghila:9:15:20
+b63105471:Aymane:Band:10:2:13
+d43829016:Fatiha:Christie:19:8:0
+f16092847:Rabiaa:Depp:13:9:7
+f29471538:Yassine:Newton:4:10:18
+d82750169:Lamyae:Ifquirn:17:6:11
+f72154903:Amine:Sabi:10:7:15
